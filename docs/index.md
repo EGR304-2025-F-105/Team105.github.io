@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 105<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+ Fall, 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Dr.Daniel M. Aukes<br>
   
 
 </center>
@@ -27,6 +27,6 @@ Professor Name<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
+| Donovan Calderon               | [DonovanCalderon.GitHub](https://dcalde11.github.io//) |
 | Name #3                | link |
 | Name #4                | link |

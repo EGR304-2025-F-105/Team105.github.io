@@ -16,7 +16,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
+|Donovan Calderon |  Discord | Phone Number | Email |
 |Member 3 |  ? | ? | ? |
 |Abriana |  Phone: 602-668-4479 | Email: ampoola@asu.edu | Discord: _tvtime_ |
 
