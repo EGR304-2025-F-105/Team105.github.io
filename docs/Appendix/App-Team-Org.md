@@ -35,20 +35,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | A | A | - | A | A | - | A |
+| 9:00 AM | A | A | - | A | A | - | A |
+| 10:00 AM | A | A | - | A | A | - | A |
+| 11:00 AM | A | A | - | A | A | - | A |
+| 12:00 PM | A | A | - | A | A | - | A |
+| 1:00 PM | A | A | - | A | A | - | A |
+| 2:00 PM | A | A | - | A | A | - | A |
+| 3:00 PM | - | A | - | A | A | - | - |
+| 4:00 PM | - | A | - | A | A | - | - |
+| 5:00 PM | - | A | - | A | A | - | - |
+| 6:00 PM | - | A | - | A | A | - | - |
+| 7:00 PM | - | A | - | A | A | - | - |
+| 8:00 PM | - | A | - | A | A | - | - |
+| 9:00 PM | - | A | - | A | A | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -57,7 +57,7 @@ _**Table Legend for Appendix Table 2**_
 | Bill | B |
 | Mary | M |
 | Zane | Z |
-| Felicity | F |
+| Abriana | A |
 
 
 ## Meeting Coordination
