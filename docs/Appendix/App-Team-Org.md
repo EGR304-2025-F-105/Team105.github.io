@@ -7,7 +7,11 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. Ability to create and execute a working product that will help save resources, while demonstrating the abilities and skills of each individual and as a whole when brought together.
+1. 
+1. 
+1. 
+1. 
 
 ## Communication Channels
 
@@ -26,8 +30,8 @@ Group will primarily use phone number group chats as a way to contact one anothe
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. During the weekend, there will be virtual discussions about the project dependant on individual's schedule.
+1. Pairs of two will handle physical instructor correspondence and report back during the meetings. When it comes to virtual, there will be one person who then will document what is said and report back to the group.
 
 ## Meeting Schedule
 
@@ -54,9 +58,9 @@ _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
+| Don | D |
+| Keith | K |
+| Tim | T |
 | Abriana | A |
 
 
@@ -65,7 +69,8 @@ _**Table Legend for Appendix Table 2**_
 1. A short meeting will happen after class to discuss possible future meetings. Additionally, there would be text reminders about said meetings. 
 1. The team will discuss with one another about scheduling or another possible way for additional meetings or changes.
 1. The format with the meetings will be both face-to-face and virtual depending on the complexity of the project's task.
-1. When there is a meeting that an individual missed, there will a google document that contains all information about the meeting that they can read.  
+1. When there is a meeting that an individual missed, there will a google document that contains all information about the meeting that they can read. 
+1. Physical meetings will occur on Mondays and Wednesdays after 4:30pm. Additionally, Thursday will be a floater day for anyone who missed previous meetings or need additional support.
 
 ## Roles & Responsibilities
 
@@ -80,10 +85,17 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+1. 
 
+**Resolution**
+1. When there is missing contributions, there will be a disuccsion about why something isn't done and what steps are needed to achieve the goal.
+1. Instead of outing an individual and critize them, we will talk as a team about support and how we can achieve the end goal without risking morale drop. 
+1. If the performance isn't improving, there will be certain steps that will help out with the situation:
+    1. A discussion with the professor as a mediator about why the situation isn't improving.
+    1. Pink Slip 
+    1. Ask about removal from the team as the very last resort if nothing has changed.  
 
 ## Signatures
 
-Need to add content!!
+Abriana   AP
 
