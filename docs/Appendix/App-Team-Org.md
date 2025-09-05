@@ -18,11 +18,11 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Member 1 |  ? | ? | ? |
 |Donovan Calderon |  Discord | Phone Number | Email |
 |Member 3 |  ? | ? | ? |
-|Abriana |  Phone: 602-668-4479 | Email: ampoola@asu.edu | Discord: _tvtime_ |
+|Abriana |  Phone | Discord | Email |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Group will primarily use phone number group chats as a way to contact one another for this main project. If there is any issues, we will use discord as a secondary communication hub.
  
 ## Communication Procedures
 
@@ -42,7 +42,7 @@ _**Appendix Table 2**: Weekly Schedule_
 | 12:00 PM | A | A | - | A | A | - | A |
 | 1:00 PM | A | A | - | A | A | - | A |
 | 2:00 PM | A | A | - | A | A | - | A |
-| 3:00 PM | - | A | - | A | A | - | - |
+| 3:00 PM | A | A | - | A | A | - | A |
 | 4:00 PM | - | A | - | A | A | - | - |
 | 5:00 PM | - | A | - | A | A | - | - |
 | 6:00 PM | - | A | - | A | A | - | - |
@@ -62,10 +62,10 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. A short meeting will happen after class to discuss possible future meetings. Additionally, there would be text reminders about said meetings. 
+1. The team will discuss with one another about scheduling or another possible way for additional meetings or changes.
+1. The format with the meetings will be both face-to-face and virtual depending on the complexity of the project's task.
+1. When there is a meeting that an individual missed, there will a google document that contains all information about the meeting that they can read.  
 
 ## Roles & Responsibilities
 
