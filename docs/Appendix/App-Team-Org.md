@@ -19,7 +19,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Keith Payne | Phone | Discord | Email |
 |Donovan Calderon |  Discord | Phone Number | Email |
 |Member 3 |  ? | ? | ? |
 |Abriana |  Phone | Discord | Email |
@@ -94,5 +94,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Abriana   AP
+Abriana   AP   Keith Payne
 
