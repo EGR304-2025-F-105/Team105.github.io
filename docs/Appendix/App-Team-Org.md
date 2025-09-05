@@ -18,7 +18,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Member 1 |  ? | ? | ? |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Abriana |  Phone: 602-668-4479 | Email: ampoola@asu.edu | Discord: _tvtime_ |
 
 ### Main Method for Group Communication
 
