@@ -29,4 +29,4 @@ Dr.Daniel M. Aukes<br>
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
 | Donovan Calderon               | [DonovanCalderon.GitHub](https://dcalde11.github.io//) |
 | Name #3                | link |
-| Abriana Poola                | [apoolaZ.github](https://github.com/apoolaZ/apoolaZ.github.io) |
+| Abriana Poola                | [apoolaZ.GitHub](https://apoolaz.github.io) |
