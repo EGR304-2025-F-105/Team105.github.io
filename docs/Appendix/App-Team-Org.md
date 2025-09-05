@@ -85,11 +85,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-1. 
-
-**Resolution**
-
-1. When there is missing contributions, there will be a disuccsion about why something isn't done and what steps are needed to achieve the goal.
+1. When there is missing contributions, there will be a discussion about why something isn't done and what steps are needed to achieve the goal.
 1. Instead of outing an individual and critize them, we will talk as a team about support and how we can achieve the end goal without risking morale drop. 
 1. If the performance isn't improving, there will be certain steps that will help out with the situation:
     1. A discussion with the professor as a mediator about why the situation isn't improving.
