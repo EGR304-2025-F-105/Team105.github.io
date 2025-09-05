@@ -27,6 +27,6 @@ Professor Name<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Donovan Calderon               | [DonovanCAlderon.GitHub](https://dcalde11.github.io//) |
+| Donovan Calderon               | [DonovanCalderon.GitHub](https://dcalde11.github.io//) |
 | Name #3                | link |
 | Name #4                | link |
