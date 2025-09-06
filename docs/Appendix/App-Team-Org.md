@@ -43,14 +43,14 @@ _**Appendix Table 2**: Weekly Schedule_
 | 9:00 AM | A | A | - | A | A | - | A |
 | 10:00 AM | A | A,K | - | A,K | A | - | A |
 | 11:00 AM | A | A | - | A | A | - | A |
-| 12:00 PM | A | A,K | K | A,K | A,K | K | A,K |
-| 1:00 PM | A,K | A | K | A,K | A,K | K | A,K |
-| 2:00 PM | A,K | A | K | A,K | A,K | K | A,K |
-| 3:00 PM | A,K | A | K | A,K | A,K | K | A,K |
-| 4:00 PM | K | A | K | A,K | A,K | K | K |
-| 5:00 PM | K | A,K | K | A,K | A,K | K | K |
-| 6:00 PM | K | A,K | K | A,K | A,K | K | K |
-| 7:00 PM | - | A | - | A | A | - | - |
+| 12:00 PM | A | A,K,D | K | A,K,D | A,K | K | A,K |
+| 1:00 PM | A,K | A,D | K | A,K,D | A,K | K | A,K |
+| 2:00 PM | A,K | A,D | K | A,K,D | A,K | K | A,K |
+| 3:00 PM | A,K | A,| K | A,K, | A,K | K | A,K |
+| 4:00 PM | K | A | K,D | A,KD | A,K | K | K |
+| 5:00 PM | K | A,K,D| K,D | A,K | A,K | K | K |
+| 6:00 PM | K | A,K,D | K,D | A,K | A,K | K | K |
+| 7:00 PM | - | A,D | - | A | A | - | - |
 | 8:00 PM | - | A | - | A | A | - | - |
 | 9:00 PM | - | A | - | A | A | - | - |
 
