@@ -9,7 +9,7 @@ tags:
 
 1. Ability to create and execute a working product that will help save resources, while demonstrating the abilities and skills of each individual and as a whole when brought together.
 1. Meet set milestones on time, with working prototypes while passing compliance checks.
-1. 
+1. Gain proficiency with new software such as Kicad and successfully apply that knowledge to our project.
 1. 
 1. 
 
