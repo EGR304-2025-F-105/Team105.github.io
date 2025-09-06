@@ -10,8 +10,8 @@ tags:
 1. Ability to create and execute a working product that will help save resources, while demonstrating the abilities and skills of each individual and as a whole when brought together.
 1. Meet set milestones on time, with working prototypes while passing compliance checks.
 1. Gain proficiency with new software such as Kicad and successfully apply that knowledge to our project.
-1. 
-1. 
+1. Collaborate effectively by maintaining clear communication, sharing knowledge, and supporting each team member to ensure project success.
+1. Continuously test, analyze, and refine our designs to improve energy efficiency, optimize performance, and deliver a reliable final product.
 
 ## Communication Channels
 
