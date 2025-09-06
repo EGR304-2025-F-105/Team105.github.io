@@ -83,6 +83,11 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+1. The roles of each project will change depending on the task at hand. 
+1. When an opportunity arises, each individual will be assign a role best suited for them. 
+1. Each team member will present there works within the group and if needed, the others member can help support different roles if there are any complicatons. 
+1. There will be a log tracked using Google resources to mark achievements and events that occur.
+
 ## Conflict Recognition & Resolution
 
 1. When there is missing contributions, there will be a discussion about why something isn't done and what steps are needed to achieve the goal.
@@ -94,5 +99,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Abriana   AP   Keith Payne, Donovan Calderon
+Abriana Poola,  Keith Payne, Donovan Calderon
 
