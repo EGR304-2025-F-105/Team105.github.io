@@ -17,4 +17,4 @@ tags:
 
 
 
- > Helping homes run smoothly, save wisely, and live comfortably.
+ > Empowering homes to use less, waste less, and get more from every moment.
