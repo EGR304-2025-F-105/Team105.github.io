@@ -8,7 +8,7 @@ tags:
 ## Team Goals
 
 1. Ability to create and execute a working product that will help save resources, while demonstrating the abilities and skills of each individual and as a whole when brought together.
-1. 
+1. Meet set milestones on time, with working prototypes while paasing compliance checks.
 1. 
 1. 
 1. 
