@@ -99,5 +99,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Abriana   AP   Keith Payne, Donovan Calderon, Tim Desanti
+Abriana, Keith Payne, Donovan Calderon, Tim Desanti
 
