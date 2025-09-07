@@ -26,7 +26,6 @@ Dr.Daniel M. Aukes<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-
 | Donovan Calderon               | [DonovanCalderon.GitHub](https://dcalde11.github.io//) |
 | Keith Payne                | [kapayne6.GitHub](https://kapayne6.github.io/) |
 | Abriana Poola                | [apoolaZ.GitHub](https://apoolaz.github.io) |
