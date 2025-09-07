@@ -10,8 +10,8 @@ tags:
 1. Ability to create and execute a working product that will help save resources, while demonstrating the abilities and skills of each individual and as a whole when brought together.
 1. Meet set milestones on time, with working prototypes while passing compliance checks.
 1. Gain proficiency with new software such as Kicad and successfully apply that knowledge to our project.
-1. 
-1. 
+1. Create a supportive group to enhance quality and productivity
+1. Keep track of due dates and plan ahead to spread workload.
 
 ## Communication Channels
 
@@ -21,7 +21,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Keith Payne | Phone | Discord | Email |
 |Donovan Calderon |  Discord | Phone Number | Email |
-|Member 3 |  ? | ? | ? |
+|Tim Desanti |  discord | phone | email |
 |Abriana |  Phone | Discord | Email |
 
 ### Main Method for Group Communication
@@ -40,19 +40,19 @@ _**Appendix Table 2**: Weekly Schedule_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | A | A | - | A | A | - | A,D |
-| 9:00 AM | A | A | - | A | A | - | A,D|
-| 10:00 AM | A | A,K | - | A,K | A | D | A,D |
-| 11:00 AM | A | A | - | A | A | D | A,D |
-| 12:00 PM | A | A,K,D | K | A,K,D | A,K | K,D | A,K,D |
-| 1:00 PM | A,K | A,D | K | A,K,D | A,K,D | K,D | A,K,D |
-| 2:00 PM | A,K | A,D | K | A,K,D | A,K,D | K,D | A,K,D |
+| 9:00 AM | A | A | - | A | A | T | A,D|
+| 10:00 AM | A | A,K | - | A,K | A,T| D | A,D |
+| 11:00 AM | A | A | T | A | A | D,T | A,D |
+| 12:00 PM | A | A,K,D | K | A,K,D | A,K | K,D, | A,K,D |
+| 1:00 PM | A,K | A,D,T | K | A,K,D | A,K,D | K,D | A,K,D |
+| 2:00 PM | A,K | A,D,T | K | A,K,D | A,K,D | K,D | A,K,D |
 | 3:00 PM | A,K | A,| K | A,K, | A,K | K,D | A,K,D |
 | 4:00 PM | K | A | K,D | A,KD | A,K,D | K,D | K,D |
-| 5:00 PM | K | A,K,D| K,D | A,K | A,K,D | K,D | K,D |
-| 6:00 PM | K | A,K,D | K,D | A,K,D | A,K,D | K,D | K,D |
-| 7:00 PM | - | A, | - | A | A | - | - |
-| 8:00 PM | - | A | - | A | A | - | - |
-| 9:00 PM | - | A | - | A | A | - | - |
+| 5:00 PM | K | A,K,D,T| K,D | A,K | A,K,D | K,D | K,D |
+| 6:00 PM | K,T  | A,K,D,T | K,D,T | A,K,D,T | A,K,D,T | K,D | K,D |
+| 7:00 PM | T | A,T | T | A,T | A,T | - | - |
+| 8:00 PM | T | A,T | T | A,T | A,T | - | - |
+| 9:00 PM | T | A,T | T | A,T | A,T | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -94,5 +94,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Abriana   AP   Keith Payne, Donovan Calderon
+Abriana   AP   Keith Payne, Donovan Calderon, Tim Desanti
 
