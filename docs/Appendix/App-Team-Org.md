@@ -10,8 +10,8 @@ tags:
 1. Ability to create and execute a working product that will help save resources, while demonstrating the abilities and skills of each individual and as a whole when brought together.
 1. Meet set milestones on time, with working prototypes while passing compliance checks.
 1. Gain proficiency with new software such as Kicad and successfully apply that knowledge to our project.
-1. Create a supportive group to enhance quality and productivity
-1. Keep track of due dates and plan ahead to spread workload.
+1. 
+1. 
 
 ## Communication Channels
 
@@ -48,11 +48,11 @@ _**Appendix Table 2**: Weekly Schedule_
 | 2:00 PM | A,K | A,D,T | K | A,K,D | A,K,D | K,D | A,K,D |
 | 3:00 PM | A,K | A,| K | A,K, | A,K | K,D | A,K,D |
 | 4:00 PM | K | A | K,D | A,KD | A,K,D | K,D | K,D |
-| 5:00 PM | K | A,K,D,T| K,D | A,K | A,K,D | K,D | K,D |
-| 6:00 PM | K,T  | A,K,D,T | K,D,T | A,K,D,T | A,K,D,T | K,D | K,D |
-| 7:00 PM | T | A,T | T | A,T | A,T | - | - |
-| 8:00 PM | T | A,T | T | A,T | A,T | - | - |
-| 9:00 PM | T | A,T | T | A,T | A,T | - | - |
+| 5:00 PM | K | A,K,D| K,D | A,K | A,K,D | K,D | K,D |
+| 6:00 PM | K | A,K,D | K,D | A,K,D | A,K,D | K,D | K,D |
+| 7:00 PM | - | A, | - | A | A | - | - |
+| 8:00 PM | - | A | - | A | A | - | - |
+| 9:00 PM | - | A | - | A | A | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -78,10 +78,15 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Meeting leader :  Abriana Poola| Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder: Keith Payne  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader:    Tim Desanti| Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor:  Donovan Calderon | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+
+1. The roles of each project will change depending on the task at hand. 
+1. When an opportunity arises, each individual will be assign a role best suited for them. 
+1. Each team member will present there works within the group and if needed, the others member can help support different roles if there are any complicatons. 
+1. There will be a log tracked using Google resources to mark achievements and events that occur.
 
 ## Conflict Recognition & Resolution
 
@@ -94,5 +99,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Abriana   AP   Keith Payne, Donovan Calderon, Tim Desanti
+Abriana   AP   Keith Payne, Donovan Calderon
 
