@@ -54,4 +54,7 @@ For VOC, each individual choose seperately on which topic they wanted to researc
 
 ## Ranking
 
+The ranks go from number 1 to 6 which 1 is the project we are most intrigued about. On the right side of Figure 11, we took out some bullet points that we thought would be best to think about when going in depth for this project. 
 
+![Ranking](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI11.png){style width:"350" height:"300;"}
+**Figure 11:** Dishwasher
