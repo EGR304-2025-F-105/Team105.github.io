@@ -14,6 +14,11 @@ We seperated the user needs into four different categories to get an idea for th
 ![User Need: Thermo](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI2.png){style width:"350" height:"300;"}
 **Figure 2:** User Needs: Thermo
 
+![User Need: Pressure/Gas](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI3.png){style width:"350" height:"300;"}
+**Figure 2:** User Needs: Pressure/Gas
+
+![User Need: Water](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI4.png){style width:"350" height:"300;"}
+**Figure 2:** User Needs: Water
 
 ## Voice of the Customer (VOC) 
 
