@@ -4,6 +4,9 @@ tags:
 - tag1
 - tag2
 ---
+
+Link to the Google Slides we used for this segment: https://docs.google.com/presentation/d/1nTBhOSeBstGCxLWvoUxc8k1hHUG6KRPD8vXOxXXDTHM/edit?usp=sharing 
+
 ## User Needs and Statement
 
 We seperated the user needs into four different categories to get an idea for the main project: Solar, Thermo, Pressure/Gas, and Water. Each category has about 25 ideas each as each member reached a minimum of 5 user needs. This then turned into a statement.
