@@ -40,17 +40,29 @@ The new product design will be based on that of existing electrical blinds; howe
       * 2.3
       * 2.4
 
-1.  **Security**
+1.  **Interactivity and User Experience**
       * 3.1
       * 3.2
       * 3.3
       * 3.4
 
-1.  **Reliabilty**
+1.  **Customization**
       * 4.1
       * 4.2
       * 4.3
       * 4.4
+      
+1.  **Manufacturing**
+      * 5.1
+      * 5.2
+      * 5.3 
+      * 5.4
+
+1.  **Safety**
+      * 6.1 Having a system that stops regulates power intake to prevent fires.
+      * 6.2 Having a way for the system or sensor to stop intself from hurting the users and damaging surrouding areas.
+      * 6.3 Ensure that users can do proper maintenance in a safe manner. 
+      * 6.4 The weight of the product is neutral enough that won't cause issues for users.
 
 ## Requirement Criteria Specifications
 
