@@ -7,15 +7,13 @@ tags:
 
 ## Project Objective
 
-This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
+This project aims to investagate and develop an electrical system dealing with blinds to help improve user's households by elimating the need to continously opening/closing the blinds manually dependent on temperature and time. Almost all households have blinds installed to their household to help save on energy with the lighting and temperature. Additionally, as technology, there is a rise of customnization within households to increase user comfortablility and energy efficiency. According to Global Market Insights based on the year 2024, there is a 8.9% increase on the curtains and window blinds market in the year 2025 as the rise of urbanization is happening. With these numbers, we aim to creating a automatic blind system that detects the temperature and lighting volume which in turn, either open or close for the user. We will obtain a series of sensors: timer, outdoor/indoor temperature, and light. 
 
 ## Stakeholders
 
-- **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+- **Target group**
+- **Target purchaser** 
+- **Retailers** Allows to sell to users who are looking to 
 
 
 ## Use Cases
