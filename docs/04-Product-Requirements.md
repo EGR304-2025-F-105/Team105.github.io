@@ -19,15 +19,15 @@ This project aims to investigate and develop an electrical system dealing with b
 
 ## Use Cases
 
-1. **User Story #1: Rafa P.**
+1. **User Story #1: [Rafa P.](https://www.amazon.com/gp/customer-reviews/R24MC8D2ODUDMC/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8)**
       * "I really like this blinder as is very easy to to operate and a true color and brings lots of privacy to the room.
 The movement is smooth and proper speed but could be a bit noisy, specially in the evenings.
 Installation is quite straightforward if you got proper measurements."
   
-1. **User Story #2: Katie**
+1. **User Story #2: [Katie](https://www.amazon.com/gp/customer-reviews/R1ET17LP6APP5D/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8)**
       * "Love the blind. Works well. It is too long for most windows. Wish they had a shorter version, however, I control the blind to close it for the evening while I set up a time every morning for the blind to automatically open. It works for me."
         
-1. **User Story #3: Shelby**
+1. **User Story #3:[Shelby](https://www.amazon.com/gp/customer-reviews/R3OLCTS1E9GPKY/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8)**
       * "Love these. These have been such a good addition to our living room so we don’t have to climb over the couch to close blinds anymore. They work great so far! And they look great"
 
 ## Aspects
