@@ -24,8 +24,11 @@ This project aims to investigate and develop an electrical system dealing with b
 The movement is smooth and proper speed but could be a bit noisy, specially in the evenings.
 Installation is quite straightforward if you got proper measurements."
   
-1. **Uer Story #2: Katie**
+1. **User Story #2: Katie**
       * "Love the blind. Works well. It is too long for most windows. Wish they had a shorter version, however, I control the blind to close it for the evening while I set up a time every morning for the blind to automatically open. It works for me."
+        
+1. **User Story #3: Shelby**
+      * "Love these. These have been such a good addition to our living room so we don’t have to climb over the couch to close blinds anymore. They work great so far! And they look great"
 
 ## Aspects
 
