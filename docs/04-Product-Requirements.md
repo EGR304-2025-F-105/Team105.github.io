@@ -62,7 +62,7 @@ The new product design will be based on that of existing electrical blinds; howe
       * 6.1 Having a system that stops regulates power intake to prevent fires.
       * 6.2 Having a way for the system or sensor to stop intself from hurting the users and damaging surrouding areas.
       * 6.3 Ensure that users can do proper maintenance in a safe manner. 
-      * 6.4 The weight of the product is neutral enough that won't cause issues for users.
+      * 6.4 The weight of the product is neutral enough that won't cause issues for users.e
 
 ## Requirement Criteria Specifications
 
