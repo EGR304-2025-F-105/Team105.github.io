@@ -19,11 +19,11 @@ We broke out into individual groups to create 25 different ideas.
 
 **Don**
 
-![25 Ideas_D](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI3.png){style width:"350" height:"300;"}
+![25 Ideas_D](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/DI_D.png){style width:"350" height:"300;"}
 
 **Tim**
 
-![25 Ideas_T](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI3.png){style width:"350" height:"300;"}
+![25 Ideas_T](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/T_DI.png){style width:"350" height:"300;"}
 
 **Abriana**
 
