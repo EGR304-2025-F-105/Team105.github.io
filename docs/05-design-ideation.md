@@ -7,7 +7,7 @@ tags:
 
 ## Intro/overview
 
-As a group, we collectively decided to base our main project on electrical blinds. To achieve our product mission statement of helping individuals by reducing manual steps with their household appliances, electrical blinds offer users to 
+As a group, we collectively decided to base our main project on electrical blinds. To achieve our product mission statement of helping individuals by reducing manual steps with their household appliances, electrical blinds offer users to be able to go about their days while technology is programmed to do whatever the user inputted for the day. This ranges from closing the blinds automatically when the weather reaches a certain temperature or when the lights are dim enough, then the blinds are lifted because of the coolness.
 
 ## Generating Ideas
 
@@ -46,8 +46,5 @@ We broke out into individual groups to create 25 different ideas.
 
 **Product Concept 2**
 
-![Rolling Blinds](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI3.png){style width:"350" height:"300;"}
+![Concept 2](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/2Concept.png){style width:"350" height:"300;"}
 
-**Product Concept 3**
-
-![Rolling Blinds](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI3.png){style width:"350" height:"300;"}
