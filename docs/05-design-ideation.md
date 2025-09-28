@@ -7,25 +7,16 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+As a group, we collectively decided to base our main project on electrical blinds. To achieve our product mission statement of helping individuals by reducing manual steps with their household appliances, electrical blinds offer users to 
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
 
-|                   requirement / need |             feature              | detail                                                                      |
-| -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
-| product provides clear notifications |              buzzer              | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications |             speaker              | the device can emit full waveforms                                          |
+## Ranking
 
-## Step Three
 
-Add your context and tables
+## Product Concepts
 
-## Step Four
+**Figure 1:** Product Concept 1: Electrical Rolling Blinds
 
-Add your different product concepts stuff here
-
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+![Rolling Blinds](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI3.png){style width:"350" height:"300;"}
