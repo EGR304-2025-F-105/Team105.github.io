@@ -10,7 +10,7 @@ The group decided that the electric blinds would require the the 4 main function
 
 * How to connect the motors simultaneously with two subsystems.
 * How can we tell the product to stop when there is something blocking (going more into depth about the scenerio coding).
-* How can we work the light sensor and the thermometer sensors together to tell the product the light am=nd temperature value.
+* How can we work the light sensor and the thermometer sensors together to tell the product the light and temperature value.
 
 ## Images
 
@@ -18,11 +18,6 @@ The group decided that the electric blinds would require the the 4 main function
 
 ![](Image01.jpg){style width:"350" height:"300;"}
 **Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
 
 ## Conclusions and Future Work
 
