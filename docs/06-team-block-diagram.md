@@ -9,8 +9,8 @@ The group decided that the electric blinds would require the the 4 main function
 ## Research Question
 
 * How to connect the motors simultaneously with two subsystems.
-* 
-* Bullet Point 3
+* How can we tell the product to stop when there is something blocking (going more into depth about the scenerio coding).
+* How can we work the light sensor and the thermometer sensors together to tell the product the light am=nd temperature value.
 
 ## Images
 
@@ -25,6 +25,8 @@ The group decided that the electric blinds would require the the 4 main function
 
 
 ## Conclusions and Future Work
+
+
 
 ## External Links
 
