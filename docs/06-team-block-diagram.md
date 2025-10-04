@@ -12,18 +12,17 @@ The group decided that the electric blinds would require the the 4 main function
 * How can we tell the product to stop when there is something blocking (going more into depth about the scenerio coding).
 * How can we work the light sensor and the thermometer sensors together to tell the product the light and temperature value.
 
-## Images
+## Team Block Diagram
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![Team Block Diagram](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_draw.png)
 
-![](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
 
 ## Conclusions and Future Work
 
+With the diagram, it showcases the links that each funcation has and how it connects to one another through the wiring. With the thermomter, it is connected to both the motion sensor and the light sensor as a way to tell the two sensors the temperature that it is sensing. With that, the light sensor can determine if the brightness level is high to give signal to the motor to shut the blinds. The motion sensor detects the surroundings and gives signal when an obstacle happens. With the second motor, it would be used as a way to adjust the sliders dependent on light level. 
 
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[draw io](https://app.diagrams.net/#G1gdKSl328uWdOMhKCSonAUmSSF8yqtITq#%7B%22pageId%22%3A%22LpvS5Xc1cf0ltLESSJ2z%22%7D)
 
