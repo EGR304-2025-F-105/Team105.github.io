@@ -19,6 +19,7 @@ Dr. Daniel M. Aukes<br>
 ## Team Introduction
 
 >     We are a team of engineering students from Arizona State University, sharing a vision of transforming the innovative concepts of embedded system into feasible market ready solutions. While the foundation we hold is academic, our approach mirrors that of a startup; combining technical expertise with entrepeneurial thinking, in designing products that solve every day household issues.<br>
+>
 
 
 
