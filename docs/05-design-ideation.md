@@ -42,7 +42,7 @@ We broke out into individual groups to create 25 different ideas.
 
 
 
-**Product Concept 2**
+**Product Concept 2** Temperature Based Blinds
 
 
 
