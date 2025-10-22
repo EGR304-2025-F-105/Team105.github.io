@@ -15,6 +15,4 @@ tags:
 
 ## Product Mission Statement
 
-
-
- > Empowering homes to use less, waste less, and get more from every moment.
+ > Allowing busy home owners to have an automatic blinds system that can open/close itself dependent on the measurement of light and temperature to help save money with electricity bills. 
