@@ -14,7 +14,7 @@ title: Software Proposal
 
 ## Images
 
-![image caption](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_Software_Purposal.drawio.png)
+![Electric Blinds_SProposal](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_SProposal.drawio.png)
 
 **Figure 3:** UML of an electric blinds that activates the motors by the average temperature of both inside/outside of a home and light value. 
 
@@ -31,7 +31,7 @@ title: Software Proposal
 
 ## External Links
 
-[Software Porposal](https://drive.google.com/file/d/1wC5pWVfzkhPJWQpIBmeiUbisRbVUanYt/view?usp=sharing)
+[Software Porposal Draw.io](https://app.diagrams.net/#G1wC5pWVfzkhPJWQpIBmeiUbisRbVUanYt#%7B%22pageId%22%3A%22WzpfuVUmJpjsxw9uIVLz%22%7D)
 
 
 ## References
