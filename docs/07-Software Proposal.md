@@ -14,14 +14,9 @@ title: Software Proposal
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![image caption](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_Software_Purposal.drawio.png)
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
+**Figure 3:** UML of an electric blinds that activates the motors by the average temperature of both inside/outside of a home and light value. 
 
 
 ## Results
@@ -32,9 +27,6 @@ title: Software Proposal
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
 
 
 ## Results
