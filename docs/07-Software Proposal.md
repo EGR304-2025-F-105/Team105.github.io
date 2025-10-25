@@ -28,7 +28,7 @@ To determine to whether or not the blinds stay open/close and to further adjust 
 
 ## Conclusions and Future Work
 
-
+With the proposal, the communication between all four PCBs are visualized to show the internal works of the coding and how it should fuction before the main build. With that in mind, the proposal will need to relook the decisions to determine how to translates to the communicators that are needed to connect all individual boards. Futhermore, it would need look into the statements and correct them to match the proposed actions. 
 
 ## External Links
 
