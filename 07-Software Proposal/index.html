@@ -588,15 +588,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#references" class="md-nav__link">
-    <span class="md-ellipsis">
-      References
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -759,15 +750,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#references" class="md-nav__link">
-    <span class="md-ellipsis">
-      References
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -796,7 +778,7 @@
 <h2 id="introduction">Introduction</h2>
 <h2 id="research-question">Research Question</h2>
 <ul>
-<li>How can the PIC boards communicate with each other continously without interruption?</li>
+<li>How can the PCBs communicate with each other continously without interruption?</li>
 <li>With the two sensors, how can they cooperate with each to ensure the two actuators recieve the signal to move?</li>
 <li>How would the order of boards work to ensure success with the project?</li>
 </ul>
@@ -805,14 +787,13 @@
 <p><strong>Figure 3:</strong> UML of an electric blinds that activates the motors by the average temperature of both inside/outside of a home and light value. </p>
 <h2 id="results">Results</h2>
 <ol>
-<li>Numbered Point 1</li>
-<li>Numbered Point 2</li>
-<li>Numbered Point 3</li>
+<li>Light and Thermo sensor are able to communicate with one another about when the whole system is on and give values of the temperatures to the actuator.</li>
+<li>To calculate when the blinds close/open, the motor is looking for the value of zero in the thermo sensor to close itself. However if the temperature within the rang (Value 1), then the decision in the code is whether or not the room is cool enough to keep the blinds open/close. Afterwards, the first actuator communicates to the second to adjust sliders.</li>
+<li>In total, there should be about 2 major decisions in order for the product to work.</li>
 </ol>
 <h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
 <h2 id="external-links">External Links</h2>
 <p><a href="https://app.diagrams.net/#G1wC5pWVfzkhPJWQpIBmeiUbisRbVUanYt#%7B%22pageId%22%3A%22WzpfuVUmJpjsxw9uIVLz%22%7D">Software Porposal Draw.io</a></p>
-<h2 id="references">References</h2>
 
 
 
