@@ -4,15 +4,13 @@ title: Software Proposal
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* How can the PIC boards communicate with each other continously without interruption?
+* With the two sensors, how can they cooperate with each to ensure the two actuators recieve the signal to move?
+* How would the order of boards work to ensure success with the project?
 
 ## Images
 
