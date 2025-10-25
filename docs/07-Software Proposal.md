@@ -4,6 +4,7 @@ title: Software Proposal
 
 ## Introduction
 
+To determine to whether or not the blinds stay open/close and to further adjust the blind's sliders, the software proposal will showcase the pseudo-coding of how the system will gather information and what to output at the end. The main important goal is too make sure that the product can decide 2 major decisions with the usage of values given by the thermometers. Afterwards, the two actuators will correspond with one another to adjust itself for the comfort of the user.
 
 
 ## Research Question
