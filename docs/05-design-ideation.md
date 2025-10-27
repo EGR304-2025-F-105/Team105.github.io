@@ -39,10 +39,14 @@ We broke out into individual groups to create 25 different ideas.
 
 **Product Concept 1** Electrical Rolling Blinds
 
+![GS](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_DesignIdeation3%20(1).jpg){style width:"350" height:"300;"} 
 
+
+![GS](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Concept%20copy.jpg){style width:"350" height:"300;"} 
 
 
 **Product Concept 2** Temperature Based Blinds
 
+![GS](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/2Concept.png){style width:"350" height:"300;"} 
 
 
