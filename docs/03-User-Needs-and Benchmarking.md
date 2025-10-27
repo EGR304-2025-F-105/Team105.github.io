@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 
-Link to the Google Slides we used for this segment: https://docs.google.com/presentation/d/1nTBhOSeBstGCxLWvoUxc8k1hHUG6KRPD8vXOxXXDTHM/edit?usp=sharing 
+
 
 ## User Needs and Statement
 
@@ -61,3 +61,6 @@ The ranks go from number 1 to 6 which 1 is the project we are most intrigued abo
 
 ![Ranking](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI11.png){style width:"350" height:"300;"}
 **Figure 11:** Rankings from Products and bullet points
+
+## External
+[Google Slides](https://docs.google.com/presentation/d/1nTBhOSeBstGCxLWvoUxc8k1hHUG6KRPD8vXOxXXDTHM/edit?usp=sharing)
