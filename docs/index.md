@@ -7,7 +7,6 @@ tags:
 <center>
 <font size="8">Electrical Blinding System<br>
 <font size="5">Team 105<br>
-**Submission: December 8th, 2025**<br>
  Fall, 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
