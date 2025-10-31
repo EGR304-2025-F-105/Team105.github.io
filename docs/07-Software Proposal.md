@@ -15,7 +15,7 @@ To determine to whether or not the blinds stay open/close and to further adjust 
 
 ## Images
 
-![Electric Blinds_SProposal](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_SProposal.drawio.png)
+![Electric Blinds_SProposal](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_SoProl.drawio.png)
 
 **Figure 1:** UML of an electric blinds that activates the motors by the average temperature of both inside/outside of a home and light value. 
 
