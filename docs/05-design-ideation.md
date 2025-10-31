@@ -149,7 +149,7 @@ After discussing the ideas with one another, they then sorted into the ideas int
 | Product isn’t too heavy for users | Product has a position memory | Can offer routine based advice to users | Child and pet safety lock to ensure safety for the little ones   |
 | Can be set up individually  | Can connect to wifi to be updated with software | There is an app offered to users that helps connect them to device | Has a battery saver to ensure energy conservation |
 
-**Reflection**
+## Reflection
 
 Some of the ranked items in the GSR portion unfortanatley did not make it to the final design as some ideas were outside of the scope of learning or did not make sense in the long run. Though bluetooth capabilities seemed interesting to include, it would require extensive research and properties that are prohibited in the final stages of the product. Other ideas were combined with one another as some were dependent on one another to function such as product being to heavy therefore choosing smaller components that still function. 
 
