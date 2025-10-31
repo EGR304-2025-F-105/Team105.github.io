@@ -14,7 +14,7 @@ The group decided that the electric blinds would require the the 4 main function
 
 ## Team Block Diagram
 
-![Team Block Diagram](Team_105_BloDia.drawio.png)
+![Team Block Diagram](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/BLDIA_Team105.drawio.png)
 
 
 ## Conclusions and Future Work
