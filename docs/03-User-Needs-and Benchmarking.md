@@ -57,10 +57,14 @@ For VOC, each individual choose seperately on which topic they wanted to researc
 
 ## Ranking
 
-The ranks go from number 1 to 6 which 1 is the project we are most intrigued about. On the right side of Figure 11, we took out some bullet points that we thought would be best to think about when going in depth for this project. 
+The ranks go from number 1 to 6 which 1 ranked as important while 6 is not so interesting. On the right side of Figure 11, some bullet points were removed as they would require extensive research and is out of scope of the class. 
 
 ![Ranking](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/UBNI11.png){style width:"350" height:"300;"}
 **Figure 11:** Rankings from Products and bullet points
+
+## Reflection
+
+As a team, they decided to combine the light sensor and solar blinds to create the idea of temperature equalizing blinds. With temperature-based blinds, the group can use their extensive knowledge from the coursework to set up a system where the blinds could roll either up/down and adjust blind's slates dependent on temperature value.
 
 ## External
 [Google Slides](https://docs.google.com/presentation/d/1nTBhOSeBstGCxLWvoUxc8k1hHUG6KRPD8vXOxXXDTHM/edit?usp=sharing)
