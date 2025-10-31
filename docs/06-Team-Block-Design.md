@@ -8,9 +8,9 @@ The group decided that the electric blinds would require the the 4 main function
 
 ## Research Question
 
-* How to connect the motors simultaneously with two subsystems.
-* How can we tell the product to stop when there is something blocking (going more into depth about the scenerio coding).
-* How can we work the light sensor and the thermoresistor sensors together to tell the product the light and temperature value.
+* How to connect the motors simultaneously with two subsystems?
+* How can we tell the product to stop when there is something blocking (going more into depth about the scenerio coding)?
+* How can we work the light sensor and the thermoresistor sensors together to tell the product the light and temperature value?
 
 ## Team Block Diagram
 
