@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 
-## Intro/overview
+## Intro/Overview
 
-As a group, we collectively decided to base our main project on electrical blinds. To achieve our product mission statement of helping individuals by reducing manual steps with their household appliances, electrical blinds offer users to be able to go about their days while technology is programmed to do whatever the user inputted for the day. This ranges from closing the blinds automatically when the weather reaches a certain temperature or when the lights are dim enough, then the blinds are lifted because of the coolness.
+The group collectively decided to base the main project on electrical blinds that is dependent on temperature. To achieve the product mission statement of helping homeowners save on electricity bills, these electrical blinds offer users to be able to go about their days while the product is programmed to either lift/lower blinds dependent on temperature and adjust the blind's slates dependent on the position of the first actuator. 
 
 ## Generating Ideas
 
-We broke out into individual groups to create 25 different ideas. 
+The group decided to branch individually and create 25 ideas for the product wants and needs. Afterwards, the group got together and went over the ideas and sorted on what they wanted the product to have and what was needed to achieve the product mission statement.  
 
 **Keith**
 
