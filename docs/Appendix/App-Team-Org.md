@@ -99,5 +99,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Abriana, Keith Payne, Donovan Calderon, Tim Desanti
+Abriana Poola, Keith Payne, Donovan Calderon, Tim Desanti
 
