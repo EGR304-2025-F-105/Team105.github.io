@@ -17,7 +17,7 @@ To determine to whether or not the blinds stay open/close and to further adjust 
 
 ![Electric Blinds_SProposal](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_SProposal.drawio.png)
 
-**Figure 3:** UML of an electric blinds that activates the motors by the average temperature of both inside/outside of a home and light value. 
+**Figure 1:** UML of an electric blinds that activates the motors by the average temperature of both inside/outside of a home and light value. 
 
 
 ## Results
@@ -28,7 +28,9 @@ To determine to whether or not the blinds stay open/close and to further adjust 
 
 ## Conclusions and Future Work
 
-With the proposal, the communication between all four PCBs are visualized to show the internal works of the coding and how it should fuction before the main build. With that in mind, the proposal will need to relook the decisions to determine how to translates to the communicators that are needed to connect all individual boards. Futhermore, it would need look into the statements and correct them to match the proposed actions. 
+With the proposal, the communication between all four PCBs are visualized to show the internal works of the coding and how it should fuction before the main build. When deciding who goes first, the lgiht sensor was choosen to show how the product turns on/ off to allow the others to function. With that, the two motors are working together to show what happens when the values given by the thermoresistors meet the requirements of the value and while statements. Futhermore, the main sensor that this project is heavily reliant on is the thermoresistor. As shown in Figure 1 above, all major decisions are dependent on the values given by the temperature tracked by the thermoresistor. 
+
+Overall, this proposal shows how the product achieves the requirements on having two sensors and two actuators. Though originally having three sensors, it was decided that having two sensors would make it easier to transfer data as having a third sensor would complicate the product even more.
 
 ## External Links
 
