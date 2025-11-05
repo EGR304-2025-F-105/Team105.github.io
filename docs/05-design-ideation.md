@@ -7,11 +7,13 @@ tags:
 
 ## Intro/Overview
 
+this is a test
+
 The group collectively decided to base the main project on electrical blinds that is dependent on temperature. To achieve the product mission statement of helping homeowners save on electricity bills, these electrical blinds offer users to be able to go about their days while the product is programmed to either lift/lower blinds dependent on temperature and adjust the blind's slates dependent on the position of the first actuator. 
 
 ## Generating Ideas
 
-The group decided to branch individually and create 25 ideas for the product wants and needs. Afterwards, the group got together and went over the ideas and sorted on what they wanted the product to have and what was needed to achieve the product mission statement.  
+The group decided to branch individually and create 25 ideas for the product wants and needs. Afterwards, the group got together and went over the ideas and sorted on what they wanted the product to have and what was needed to achieve the product mission statement.   
 
 **Keith**
 
