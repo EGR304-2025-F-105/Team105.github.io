@@ -4,7 +4,7 @@ title: Team Block Diagram
 
 ## Introduction
 
-This is a test.
+
 
 The group decided that the electric blinds would require the the 4 main functionalities: light sensor, thermoresistor, and two actuators. How the blinds will function is by having the light sensor detect the light value which then turns the whole system on. With the system on, the thermoresistor poriton of the project will then detect the temperature value of both inside/outside of the house. These values are then transfer to the first actuator which is a big motor that will lift/lower the blinds until it reaches a desired position. After that, the first actuator then tells the second actuator the next part which is to adjust the slates of the blinds depending on temperature.   
 
@@ -16,7 +16,7 @@ The group decided that the electric blinds would require the the 4 main function
 
 ## Team Block Diagram
 
-![Team Block Diagram](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/BLDIA_Team105.drawio.png)
+![Team Block Diagram](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_BlODiagram.drawio.png)
 
 
 ## Conclusions and Future Work
@@ -25,5 +25,5 @@ With the diagram, it showcases the links that each funcation has and how it conn
 
 ## External Links
 
-[draw.io](https://drive.google.com/file/d/1Bh6cie3VpDT83jYh41SfBJG12mz2PesZ/view?usp=sharing)
+[draw.io](https://app.diagrams.net/#G1Bh6cie3VpDT83jYh41SfBJG12mz2PesZ#%7B%22pageId%22%3A%229SEZQWnZX4QmiDfSKDef%22%7D)
 
