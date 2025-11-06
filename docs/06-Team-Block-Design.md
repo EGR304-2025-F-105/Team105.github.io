@@ -6,11 +6,11 @@ title: Team Block Diagram
 
 
 
-The group decided that the electric blinds would require the the 4 main functionalities: light sensor, thermoresistor, and two actuators. How the blinds will function is by having the light sensor detect the light value which then turns the whole system on. With the system on, the thermoresistor poriton of the project will then detect the temperature value of both inside/outside of the house. These values are then transfer to the first actuator which is a big motor that will lift/lower the blinds until it reaches a desired position. After that, the first actuator then tells the second actuator the next part which is to adjust the slates of the blinds depending on temperature.   
+The group decided that the electric blinds would require the the 4 main functionalities: light sensor, thermoresistor, IR emitter detector pair and an actuator.
 
 ## Research Question
 
-* How to connect the motors simultaneously with two subsystems?
+* How can we ensure that the connectors are correctly place?
 * How can we tell the product to stop when there is something blocking (going more into depth about the scenerio coding)?
 * How can we work the light sensor and the thermoresistor sensors together to tell the product the light and temperature value?
 
