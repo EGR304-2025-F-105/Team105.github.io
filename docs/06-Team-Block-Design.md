@@ -4,8 +4,6 @@ title: Team Block Diagram
 
 ## Introduction
 
-
-
 The group decided that the electric blinds would require the the 4 main functionalities: light sensor, thermoresistor, IR emitter detector pair and an actuator.
 
 ## Research Question
@@ -16,10 +14,10 @@ The group decided that the electric blinds would require the the 4 main function
 
 ## Team Block Diagram
 
-![Team Block Diagram](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/Team105_BlODiagram.drawio.png)
+![Team Block Diagram](https://raw.githubusercontent.com/EGR304-2025-F-105/Team105.github.io/refs/heads/main/docs/image/FInal_TD105png.png)
 
 
-## Conclusions and Future Work
+## Conclusions
 
 With the diagram, it showcases the links that each funcation has and how it connects to one another through the wiring. There are three major parts to the subsystem which are the following: having the light sensor turning on everything, the thermoresistor getting temperature values, and the motors working together to showcase the movement of blinds. Going back to the wiring, the whole board is connect through pins one and two on the connectors dependent on the PCB boards. Furthermore, the connectors pins are than inputted into either the PIC's RC4 or RC5 to make it easier to read for the group.
 
