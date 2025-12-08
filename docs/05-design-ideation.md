@@ -7,7 +7,6 @@ tags:
 
 ## Intro/Overview
 
-this is a test
 
 The group collectively decided to base the main project on electrical blinds that is dependent on temperature. To achieve the product mission statement of helping homeowners save on electricity bills, these electrical blinds offer users to be able to go about their days while the product is programmed to either lift/lower blinds dependent on temperature and adjust the blind's slates dependent on the position of the first actuator. 
 
