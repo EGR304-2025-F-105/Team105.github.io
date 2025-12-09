@@ -14,8 +14,6 @@ The group collectively decided to base the main project on electrical blinds tha
 
 The group decided to branch individually and create 25 ideas for the product wants and needs. Afterwards, the group got together and went over the ideas and sorted on what they wanted the product to have and what was needed to achieve the product mission statement.   
 
-**Keith**
-
 | Requirement / need | Feature | Detail |
 | ----- | ----- | ----- |
 | Product operates silently | Whisper-quiet motor | A low rpm motor to move blinds slowly to limit mechanical noise. |
@@ -43,11 +41,6 @@ The group decided to branch individually and create 25 ideas for the product wan
 | Product supplies suggestions | Routine based advice | Learns user preference and suggest setting and timers that match the users current cycle and habits |
 | Product supplies suggestions | Seasonal memory | Remembers trends of past seasons to better adjust to internal and external climates of current areas trends. |
 | Product supplies suggestions | Maintenance alerts | Offers routine updates of when product may need service from charging batteries to replacing motors. |
-
-**Don**
-
-| Requirement / need | Feature | Detail |
-| :---: | :---: | :---: |
 | Product clear  | Fast Charging | The product charges at a reasonable time  |
 | System reading temperature accurately | Smart Thermostat Sensor | Detects Temperature on glass  |
 | System saves energy  | Energy saving mode | Reduces power use |
@@ -73,12 +66,6 @@ The group decided to branch individually and create 25 ideas for the product wan
 | System updates over time | App update option  | User can update blind software through the mobile app |
 | Product handles different power sources safely | Power control Circuit | Manages power coming from solar or plug to avoid overload |
 | Product connects safely to smartphone  | Secure Bluetooth |  Keeps connection to user phone safe and private |
-
-
-**Tim**
-
-| Requirement/need | Feature | Detail |
-| ----- | ----- | ----- |
 | Product operates remotely  | wireless remote | Operate the product anywhere, anytime |
 | Product operates remotely | Bluetooth connections  | Operate the product on a personal device within range. |
 | Product operates remotely  | Wifi connection | Operate the product away from home |
@@ -104,11 +91,6 @@ The group decided to branch individually and create 25 ideas for the product wan
 | Mobility  | Easy installation/portable | Can be moved and transported easily if needed |
 | Mobility | Light weight  | Anyone can set up |
 | Product can operate autonomously  | AI functioned | Let Ai do the work for you  |
-
-**Abriana**
-
-| Requirement / need | Feature | Detail |
-| ----- | ----- | ----- |
 | Product identifies temperature | Resistance Temperature Detector (RTD) | Can change the resistance based on temperature |
 | Product identifies temperature | Thermistors | Measures temperature and limit currents based on the temperature |
 | Product identifies temperature | Thermocouple | Only measures temperature |
