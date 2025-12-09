@@ -26,7 +26,7 @@ We seperated the user needs into four different categories to get an idea for th
 
 ## Voice of the Customer (VOC) 
 
-For VOC, each individual choose seperately on which topic they wanted to research. In total, the group found 6 products that match the 4 categories.
+For VOC, each individual choose seperately on which topic they wanted to research. In total, the group found 6 products that match the 4 categories. This a test.
 
 **Keith VOC**
 
