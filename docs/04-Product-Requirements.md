@@ -14,7 +14,7 @@ This project aims to investigate and develop an electrical system dealing with b
 - **Target group** Middle to lower-middle income individuals between the ages of 20 and 40. As the increase of urbanization happens, they are more likely to move into towns and cities that can utilize this product.  
 - **Target purchaser** Target purchasers who are looking for a way to eliminate an extra step in there day-to-day activities using technology. 
 - **Retailers** Allows to sell to users who are looking to buying this product. In which, they would recieve a profit for each purchase.
-- **Communities** City-Folks (Urban) who want to customize their living space while they are doing personal tasks outside their residence
+- **Communities** City-Folks (Urban) who want to customize their living space while they are doing personal tasks outside their residence.
 
 
 ## Use Cases
