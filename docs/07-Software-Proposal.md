@@ -32,6 +32,10 @@ With the proposal, the communication between all four PCBs are visualized to sho
 
 Overall, this proposal shows how the product achieves the requirements on having two sensors and two actuators. Though originally having three sensors, it was decided that having two sensors would make it easier to transfer data as having a third sensor would complicate the product even more.
 
+## Reflections
+
+After the demonstration, there are several changes the could've happen to improve the quality of the project. First, it would be the layout of the coding as it was confusing when trying to put the whole subsystem all together. Though individuality each subsystem worked, there were issues of trying to tell one another about the high/low values. One solution would be further research about the ADC file given by MPLABX to see which code to properly use instead of guessing. 
+
 ## External Links
 
 [Software Porposal Draw.io](https://app.diagrams.net/#G1wC5pWVfzkhPJWQpIBmeiUbisRbVUanYt#%7B%22pageId%22%3A%22WzpfuVUmJpjsxw9uIVLz%22%7D)
