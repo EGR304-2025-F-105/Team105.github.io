@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Temperature Equalizing Blinds<br>
 <font size="5">Team 105<br>
-**Submission: October 31, 2025**<br> 
+**Submission: December 08, 2025**<br> 
  Fall, 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -23,7 +23,7 @@ Dr. Daniel M. Aukes<br>
 
 
 
-## Team Members Datasheet links
+## Team Members Datasheet Links
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
